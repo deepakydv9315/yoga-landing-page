@@ -89,7 +89,7 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-**15** Voila :exclamation: You have made a PR to the awesome-javascript-projects :boom: . Wait for your submission to be accepted and your PR to be merged.
+**15** Voila :exclamation: You have made a PR to the yoga-landing-page :boom: . Wait for your submission to be accepted and your PR to be merged.
 
 
 
