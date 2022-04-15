@@ -94,4 +94,4 @@ git push -u origin <your_branch_name>
 
 
 ## Project Admin 😃
-[Deepak Yadav](https://www.instagram.com/syco_coders/)
+1.[Deepak Yadav](https://www.instagram.com/syco_coders/)
